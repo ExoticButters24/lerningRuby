@@ -31,6 +31,12 @@ puts name.swapcase #salida = iSAÍ
 #Convertir a string (.to_s)
 puts 2.to_s #salida = '2'
 
+#Contar la cantidad de carácteres (.length)
+puts "hola".length #salida = '4'
+
+#Eliminar el último carácter
+puts "12".chomp
+
 #--------------------------------CARÁCTERES NO IMPRIMIBLES--------------------------------
 #Permiten realizar distintas modificaciones dentro del string
 
