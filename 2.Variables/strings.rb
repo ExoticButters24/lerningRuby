@@ -34,7 +34,7 @@ puts 2.to_s #salida = '2'
 #Contar la cantidad de carácteres (.length)
 puts "hola".length #salida = '4'
 
-#Eliminar el último carácter
+#Eliminar el último carácter (.chomp) #SOLO IRB Y SALTO DE LÍNEA
 puts "12".chomp
 
 #--------------------------------CARÁCTERES NO IMPRIMIBLES--------------------------------

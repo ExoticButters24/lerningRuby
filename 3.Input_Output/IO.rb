@@ -6,6 +6,7 @@ print "Indique su nombre: "
 
 #Función para obtener datos de consola y almacenarlos en la variable
 name = gets #IMPORTANTE = gets almacena el salto de línea al dar enter
+name = name.chomp #el método chomp elimina el salto de línea
 
 #Método para imprimir datos sin salto de línea
 print "Hola #{name}"
