@@ -1,1 +1,3 @@
-puts 'Hola Mundo'
+var = "Julián"
+
+puts "Hola #{var}"
