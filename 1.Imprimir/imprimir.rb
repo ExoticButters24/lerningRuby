@@ -1,3 +1,1 @@
-var = "Julián"
-
-puts "Hola #{var}, cómo estás?"
+puts "Hola mundo"
